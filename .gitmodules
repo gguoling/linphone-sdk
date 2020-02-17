@@ -19,6 +19,9 @@
 [submodule "msopenh264"]
 	path = msopenh264
 	url = https://github.com/gguoling/msopenh264.git
+[submodule "msx264"]
+	path = msx264
+	url = https://github.com/gguoling/msx264.git
 [submodule "mssilk"]
 	path = mssilk
 	url = https://github.com/gguoling/mssilk.git
@@ -82,6 +85,9 @@
 [submodule "external/openh264"]
 	path = external/openh264
 	url = https://github.com/gguoling/openh264.git
+[submodule "external/x264"]
+	path = external/x264
+	url = https://github.com/gguoling/x264.git
 [submodule "external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
 	url = https://github.com/gguoling/libjpeg-turbo.git

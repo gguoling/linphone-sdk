@@ -1,129 +1,129 @@
 [submodule "belle-sip"]
 	path = belle-sip
-	url = ../../public/belle-sip.git
+	url = https://github.com/gguoling/belle-sip.git
 [submodule "cmake-builder"]
 	path = cmake-builder
-	url = ../../public/linphone-cmake-builder.git
+	url = https://github.com/gguoling/linphone-cmake-builder.git
 [submodule "liblinphone"]
 	path = liblinphone
-	url = ../../public/liblinphone.git
+	url = https://github.com/gguoling/liblinphone.git
 [submodule "bcg729"]
 	path = bcg729
-	url = ../../public/bcg729.git
+	url = https://github.com/gguoling/bcg729.git
 [submodule "bzrtp"]
 	path = bzrtp
-	url = ../../public/bzrtp.git
+	url = https://github.com/gguoling/bzrtp.git
 [submodule "msamr"]
 	path = msamr
-	url = ../../public/msamr.git
+	url = https://github.com/gguoling/msamr.git
 [submodule "msopenh264"]
 	path = msopenh264
-	url = ../../public/msopenh264.git
+	url = https://github.com/gguoling/msopenh264.git
 [submodule "mssilk"]
 	path = mssilk
-	url = ../../public/mssilk.git
+	url = https://github.com/gguoling/mssilk.git
 [submodule "mswebrtc"]
 	path = mswebrtc
-	url = ../../public/mswebrtc.git
+	url = https://github.com/gguoling/mswebrtc.git
 [submodule "belcard"]
 	path = belcard
-	url = ../../public/belcard.git
+	url = https://github.com/gguoling/belcard.git
 [submodule "belr"]
 	path = belr
-	url = ../../public/belr.git
+	url = https://github.com/gguoling/belr.git
 [submodule "bctoolbox"]
 	path = bctoolbox
-	url = ../../public/bctoolbox.git
+	url = https://github.com/gguoling/bctoolbox.git
 [submodule "bcunit"]
 	path = bcunit
-	url = ../../public/bcunit.git
+	url = https://github.com/gguoling/bcunit.git
 [submodule "ortp"]
 	path = ortp
-	url = ../../public/ortp.git
+	url = https://github.com/gguoling/ortp.git
 [submodule "mediastreamer2"]
 	path = mediastreamer2
-	url = ../../public/mediastreamer2.git
+	url = https://github.com/gguoling/mediastreamer2.git
 [submodule "mswasapi"]
 	path = mswasapi
-	url = ../../public/mswasapi.git
+	url = https://github.com/gguoling/mswasapi.git
 [submodule "bcmatroska2"]
 	path = bcmatroska2
-	url = ../../public/bcmatroska2.git
+	url = https://github.com/gguoling/bcmatroska2.git
 [submodule "external/mbedtls"]
 	path = external/mbedtls
-	url = ../../public/external/mbedtls.git
+	url = https://github.com/gguoling/mbedtls.git
 [submodule "external/bv16-floatingpoint"]
 	path = external/bv16-floatingpoint
-	url = ../../public/external/bv16-floatingpoint.git
+	url = https://github.com/gguoling/bv16-floatingpoint.git
 [submodule "external/speex"]
 	path = external/speex
-	url = ../../public/external/speex.git
+	url = https://github.com/gguoling/speex.git
 [submodule "external/ffmpeg"]
 	path = external/ffmpeg
-	url = ../../public/external/ffmpeg.git
+	url = https://github.com/gguoling/ffmpeg.git
 [submodule "external/libvpx"]
 	path = external/libvpx
-	url = ../../public/external/libvpx.git
+	url = https://github.com/gguoling/libvpx.git
 [submodule "external/opus"]
 	path = external/opus
-	url = ../../public/external/opus.git
+	url = https://github.com/gguoling/opus.git
 [submodule "external/gsm"]
 	path = external/gsm
-	url = ../../public/external/gsm.git
+	url = https://github.com/gguoling/gsm.git
 [submodule "external/srtp"]
 	path = external/srtp
-	url = ../../public/external/srtp.git
+	url = https://github.com/gguoling/srtp.git
 [submodule "external/libxml2"]
 	path = external/libxml2
-	url = ../../public/external/libxml2.git
+	url = https://github.com/gguoling/libxml2.git
 [submodule "external/zlib"]
 	path = external/zlib
-	url = ../../public/external/zlib.git
+	url = https://github.com/gguoling/zlib.git
 [submodule "external/openh264"]
 	path = external/openh264
-	url = ../../public/external/openh264.git
+	url = https://github.com/gguoling/openh264.git
 [submodule "external/libjpeg-turbo"]
 	path = external/libjpeg-turbo
-	url = ../../public/external/libjpeg-turbo.git
+	url = https://github.com/gguoling/libjpeg-turbo.git
 [submodule "external/xerces-c"]
 	path = external/xerces-c
-	url = ../../public/external/xerces-c.git
+	url = https://github.com/gguoling/xerces-c.git
 [submodule "external/libxsd"]
 	path = external/libxsd
-	url = ../../public/external/libxsd.git
+	url = https://github.com/gguoling/libxsd.git
 [submodule "external/soci"]
 	path = external/soci
-	url = ../../public/external/soci.git
+	url = https://github.com/gguoling/soci.git
 [submodule "external/sqlite3"]
 	path = external/sqlite3
-	url = ../../public/external/sqlite3.git
+	url = https://github.com/gguoling/sqlite3.git
 [submodule "external/codec2"]
 	path = external/codec2
-	url = ../../public/external/codec2.git
+	url = https://github.com/gguoling/codec2.git
 [submodule "mscodec2"]
 	path = mscodec2
-	url = ../../public/mscodec2.git
+	url = https://github.com/gguoling/mscodec2.git
 [submodule "external/decaf"]
 	path = external/decaf
-	url = ../../public/external/decaf.git
+	url = https://github.com/gguoling/decaf.git
 [submodule "external/zxing-cpp"]
 	path = external/zxing-cpp
-	url = ../../public/external/zxing-cpp.git
+	url = https://github.com/gguoling/zxing-cpp.git
 [submodule "external/vo-amrwbenc"]
 	path = external/vo-amrwbenc
-	url = ../../public/external/vo-amrwbenc.git
+	url = https://github.com/gguoling/vo-amrwbenc.git
 [submodule "external/opencore-amr"]
 	path = external/opencore-amr
-	url = ../../public/external/opencore-amr.git
+	url = https://github.com/gguoling/opencore-amr.git
 [submodule "lime"]
 	path = lime
-	url = ../../public/lime.git
+	url = https://github.com/gguoling/lime.git
 [submodule "msaaudio"]
 	path = msaaudio
-	url = ../../public/msaaudio.git
+	url = https://github.com/gguoling/msaaudio.git
 [submodule "mswinrtvid"]
 	path = mswinrtvid
-	url = ../../public/mswinrtvid.git
+	url = https://github.com/gguoling/mswinrtvid.git
 [submodule "msandroidcamera2"]
 	path = msandroidcamera2
-	url = ../../public/msandroidcamera2.git
+	url = https://github.com/gguoling/msandroidcamera2.git
